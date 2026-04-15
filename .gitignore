@@ -1,2 +1,3 @@
 # Ignore Python model weights
 *.pt
+.DS_Store
